@@ -1,16 +1,13 @@
-## Hi there 👋
+# Hi there 👋
 
-<!--
-**kaykayonyia/kaykayonyia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## My name is Anthony  
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🔭 I’m currently working on the effect of more of single servicing to annual maintennace contract
+- 🌱 I’m currently learning python for data analysis
+- 👯 I’m looking to collaborate on development of AI backed analytical system
+- 🤔 I’m looking for help with AI automation and development.
+- 💬 Ask me about supply chain logistics 
+- 📫 How to reach me: through Facebook/Instagram/Whatsapp
+- 😄 Pronouns: He
+- ⚡ Fun fact: reading, playing basketball
 -->
