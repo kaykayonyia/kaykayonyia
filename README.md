@@ -10,8 +10,11 @@ I currently work as a Data and Product Analyst at Mikano International Limited, 
 
 ## 🛠️ Tech Stack
 Data Visualization: Power BI dashboards, DAX measures, KPI tracking
+
 Analysis: statistical analysis, regression, trend and cost analysis
+
 Programming: Python, SQL
+
 Domain expertise: supply chain, logistics, inventory management, fleet operations, procurement
 
 ## 🔭 I’m currently working on
