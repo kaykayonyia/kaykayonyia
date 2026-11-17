@@ -19,18 +19,28 @@ Domain expertise: supply chain, logistics, inventory management, fleet operation
 
 ## 🔭 I’m currently working on
 Interactive dashboards for logistics and manufacturing branches
+
 Inventory analysis across all store locations
+
 Pricing and competitive analysis for annual maintenance contracts (AMCs)
+
 Weekly sales, renewal and expiry tracking
+
 Cost analysis of generator overhauls, materials and delivery trips
+
 Fraud analysis that uncovered millions in missing funds
 
 ## 🎓 Certifications
 Certified Business Analyst Professional (CBAP), 2026
+
 Business Intelligence & Data Analyst (BIDA), CFI, 2024
+
 Regression Analysis, CFI, 2024
+
 Python & SQL Fundamentals, CFI, 2024
+
 Microsoft Power BI Master Class, Udemy, 2023
+
 Supply Chain certifications: Rutgers University (USA), Brentwood College (UK), Great Learning Academy
 
 ## 👯 I’m looking to 
